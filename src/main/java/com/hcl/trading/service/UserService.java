@@ -19,11 +19,6 @@ import java.text.MessageFormat;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * Created on September, 2019
- *
- * @author kamer
- */
 @Service
 @Slf4j
 @AllArgsConstructor

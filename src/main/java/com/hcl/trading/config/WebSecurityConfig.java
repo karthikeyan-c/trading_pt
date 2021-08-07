@@ -12,11 +12,6 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
-/**
- * Created on September, 2019
- *
- * @author kamer
- */
 @Configuration
 @AllArgsConstructor
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {

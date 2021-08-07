@@ -6,11 +6,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.Optional;
 
-/**
- * Created on September, 2019
- *
- * @author kamer
- */
 @Repository
 public
 interface UserRepository extends CrudRepository<User, Long> {

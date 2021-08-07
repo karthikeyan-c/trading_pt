@@ -12,11 +12,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import javax.servlet.http.HttpSession;
 import java.security.Principal;
 
-/**
- * Created on September, 2019
- *
- * @author kamer
- */
 @Controller
 @AllArgsConstructor
 @Slf4j

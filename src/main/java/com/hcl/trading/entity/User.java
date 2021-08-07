@@ -9,11 +9,6 @@ import javax.persistence.*;
 import java.util.Collection;
 import java.util.Collections;
 
-/**
- * Created on September, 2019
- *
- * @author kamer
- */
 @Getter
 @Setter
 @Builder
